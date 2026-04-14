@@ -1,0 +1,8 @@
+python-telegram-bot
+logging
+pandas
+SpeechRecognition
+pydub
+translate
+nest_asyncio
+dotenv
